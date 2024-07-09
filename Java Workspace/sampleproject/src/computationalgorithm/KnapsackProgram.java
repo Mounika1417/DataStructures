@@ -1,4 +1,4 @@
-package dynamicprogrammingalgorithm;
+package computationalgorithm;
 
 public class KnapsackProgram {
 	
